@@ -1,0 +1,28 @@
+.bg-footer {
+    background-color: #2748CD;
+}
+
+.fs-footer {
+    font-size: 14px;
+}
+
+.text-footer {
+    color: white;
+}
+
+.footer-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: .3s;
+    color: white;
+}
+
+.footer-icon:hover {
+    color: #2748CD;
+    background-color: white;
+}

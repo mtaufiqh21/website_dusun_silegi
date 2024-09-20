@@ -1,0 +1,29 @@
+.tenpen-img {
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.card-img-overlay-tenpen {
+    background-image: linear-gradient(to top, rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+    border-radius: 25px 25px 25px 25px;
+    color: #FFD700;
+}
+
+.table-teacher {
+    vertical-align: middle;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.card-detail-foto {
+    height: 500px;
+    object-fit: cover;
+}
+
+.card-gallery-foto {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

@@ -1,0 +1,39 @@
+.fh {
+    font-size: 12px;
+}
+
+.btn-contact {
+    color: #2748CD;
+    border: 1px solid #2748CD;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    transition: ease-in-out .3s;
+}
+
+.btn-contact:hover {
+    color: white;
+    border: 1px solid #2748CD;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    background-color: #2748CD;
+}
+
+.text-navbar-active {
+    color: #2748CD !important;
+}
+
+.navbar-shadow {
+    box-shadow: 0 0 10px 4px #004225;
+}
+
+.navbar {
+    background: rgba(255, 255, 255, 0.43);
+    border-radius: 0 0 16px 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.9px);
+    -webkit-backdrop-filter: blur(9.9px);
+}
+
+.text-span {
+    color: #2748CD;
+}

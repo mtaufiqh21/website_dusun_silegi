@@ -1,0 +1,47 @@
+.vismis-img {
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.card-img-overlay-vismis {
+    background-image: linear-gradient(to top, rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+    border-radius: 25px 25px 25px 25px;
+    color: #FFD700;
+}
+
+.card-vismis {
+    background-color: #F6FFFB;
+    border: #E6FFF4 solid 2px;
+}
+
+.card-padding {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.text-box {
+    background-color: #004225;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+}
+
+.image-container {
+    position: relative;
+    z-index: 2;
+    margin-left: -250px;
+    margin-bottom: 0px;
+}
+
+.quote-text {
+    /* text-align: justify; */
+    padding-right: 270px;
+}
+
+.text-yellow {
+    color: #FFD700;
+}
